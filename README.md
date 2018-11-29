@@ -2,6 +2,7 @@
 This is test version.
 
 깃헙 하자
+브랜치로 깃헙하자
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
